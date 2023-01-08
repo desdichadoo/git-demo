@@ -1,0 +1,1 @@
+gui = !sh -c '/usr/local/opt/git/bin/git gui'
